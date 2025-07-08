@@ -13,7 +13,7 @@ variable "name" {
 variable "region" {
   description = "Name of the region"
   type        = string
-  default     = "us-east-1"
+  default     = "ap-south-1"
 }
 
 variable "db_username" {

@@ -23,7 +23,7 @@ spec:
         - name: DB_SECRET_NAME
           value: "rds!cluster-1d783efa-75e4-462b-8d28-e7b02f540bbb"
         - name: AWS_REGION
-          value: "us-east-1"
+          value: "ap-south-1"
       #  - name: JWT_SECRET
       #    valueFrom:
       #      secretKeyRef:
