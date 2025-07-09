@@ -4,6 +4,6 @@ metadata:
   name: db-config
   namespace: backend
 data:
-  DB_HOST: "aurora-mysql-cluster.cluster-cxc6qewmy2oa.ap-south-1.rds.amazonaws.com"
+  DB_HOST: "aurora-mysql-cluster.cluster-cp06yqco05b3.ap-south-1.rds.amazonaws.com"
   DB_PORT: "3306"
   DB_NAME: "test"
